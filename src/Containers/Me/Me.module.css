@@ -1,0 +1,13 @@
+body {
+	background-color: #282828;
+	font-family: 'Source Code Pro', monospace;
+}
+
+html {
+	box-sizing: border-box;
+	color: #66ff66;
+}
+
+main {
+	padding: 4rem 2rem;
+}

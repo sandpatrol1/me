@@ -1,0 +1,24 @@
+.Nav {
+	list-style: none;
+	padding: 0;
+	display: flex;
+	margin: 0;
+}
+
+.NavigationItem {
+	font-size: 1.0em;
+	margin: 0;
+}
+
+.NavigationItem a {
+	padding: 1em 0.5em;
+	position: relative;
+	display: inline-block;
+	text-decoration: none;
+	text-decoration: none;
+	color: #66ff66;
+}
+
+.NavigationItem a.active {
+	border-bottom: 4px solid #ccc;
+}
