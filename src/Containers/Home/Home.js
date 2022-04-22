@@ -9,7 +9,7 @@ const home = () => {
 				<h3 className={styles.HomeH3}>
 					Father | Husband | Agile Coach | React | JavaScript | Scrum Master |
 					Web Development | Heavy Metal | History | Motorcycles | Meditation |
-					Cooking | Seafood | Copenhagen
+					Cooking | Seafood | Copenhagen | Node
 				</h3>
 			</div>
 		</React.Fragment>
