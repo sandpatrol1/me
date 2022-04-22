@@ -9,8 +9,8 @@ const about = () => {
 				<p>Hi I'm Michel Jørgensen.</p>
 				<p>I'm an Agile Coach from Copenhagen in Denmark.</p>
 				<p>
-					Currently I'm serving in the role of Scrum Master in SimCorp - a
-					Danish FinTech company for two development teams.
+					I'm serving in the role of Scrum Master for two development teams in
+					SimCorp - a Danish FinTech company - awesome place BTW.
 				</p>
 				<p>
 					Besides family, agile and technology I'm into music, pale ale and
